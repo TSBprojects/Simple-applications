@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="ru_en">Russian</string>
+    <string name="ru_ru">Русский</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="en_values">
+        <item>meters</item>
+        <item>feet</item>
+        <item>kilometers</item>
+        <item>miles</item>
+        <item>centimeters</item>
+        <item>inches</item>
+    </string-array>
+</resources>

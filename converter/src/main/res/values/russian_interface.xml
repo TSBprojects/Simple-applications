@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ru_values">
+        <item>метры</item>
+        <item>футы</item>
+        <item>километры</item>
+        <item>мили</item>
+        <item>сантиметры</item>
+        <item>дюймы</item>
+    </string-array>
+</resources>
